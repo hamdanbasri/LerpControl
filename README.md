@@ -42,7 +42,7 @@ This [code](https://github.com/hamdanbasri/LerpControl/blob/main/LerpControl.cs)
 
 <!-- GETTING STARTED -->
 ## Getting Started
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhamdanbasri%2FAutoRotateControl&label=Visitors&countColor=%23263759&style=flat)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhamdanbasri%2FLerpControl&label=Visitors&countColor=%23263759&style=flat)
 * Open Unity and add a <strong>Cube</strong> to the scene.
 * Attach the [LerpControl.cs](https://github.com/hamdanbasri/LerpControl/blob/main/LerpControl.cs) script to the <strong>Cube</strong>.
 * Specify the Start Position and End Position of your gameobject.
