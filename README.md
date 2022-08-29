@@ -3,7 +3,7 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-<a href="https://github.com/hamdanbasri/AutoRotateControl/blob/main/AutoRotateControl.cs">
+<a href="https://github.com/hamdanbasri/LerpControl">
 <img src="images/LerpControlLogo.png" alt="Logo" width=75%>
 </a>
 <p align="center">
@@ -34,7 +34,7 @@ Easily lerp your Gameobjects!
 </br>
 Wanting to move your Gameobjects back and forth easily?
 </br>
-This [code](https://github.com/hamdanbasri/FPSDisplayForUnity) is here just to do that.
+This [code](https://github.com/hamdanbasri/LerpControl/blob/main/LerpControl.cs) is here just to do that.
 
 <!-- FUNCTIONS -->
 ## Functions
@@ -44,7 +44,7 @@ This [code](https://github.com/hamdanbasri/FPSDisplayForUnity) is here just to d
 ## Getting Started
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhamdanbasri%2FAutoRotateControl&label=Visitors&countColor=%23263759&style=flat)
 * Open Unity and add a <strong>Cube</strong> to the scene.
-* Attach the [LerpControl.cs](https://github.com/hamdanbasri/FPSDisplayForUnity) script to the <strong>Cube</strong>.
+* Attach the [LerpControl.cs](https://github.com/hamdanbasri/LerpControl/blob/main/LerpControl.cs) script to the <strong>Cube</strong>.
 * Specify the Start Position and End Position of your gameobject.
 * Set the speed and duration.
 * Press <strong>Play</strong> in your editor see the magic of <strong>LerpControl</strong>.
