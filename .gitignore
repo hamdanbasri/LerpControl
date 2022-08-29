@@ -70,3 +70,9 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+LICENSE.meta
+README.md.meta
+LerpControl.cs.meta
+images.meta
+images/LerpControlLogo.png.meta
+images/LerpControlSample.jpg.meta
